@@ -2,6 +2,8 @@
 
 TAB series Ternary And Binary convolution and quantization functions on ARM and x86 CPU and Nvidia GPU.
 
+**Please refer to this GitHub repo [ASL_TAB](https://github.com/yiweifengyan/ASL_TAB/tree/main) for ASL Course Porject code. The current repo TAB is a PyTorch Extension on CPU and GPU, which is unsuitable for ASL projects.**
+
 ## File Organization
 #### CUDA Version
  - Setup_GPU.py: the installation file of PyTorch Extension
